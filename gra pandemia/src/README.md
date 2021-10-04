@@ -1,4 +1,4 @@
-Gra AntiPlague vel. World Saver.  
+Gra AntiPlague vel. World Saver.    
 Gra posiada interfejs graficzny realizowany za pomocą biblioteki Swing.  
 Po rozpoczęciu działania programu generowane jest okno startowe, w ktorym mozemy wybrac jedna z trzech mozliwosci:  
 Nowa Gra - Przenosi nas do drugiego okna, w ktorym wybieramy interesujacy nas poziom trudnosci. Poziomy te roznia się  
@@ -28,5 +28,5 @@ zastapiona czerwonym zakazu.
 Gra konczy sie gdy:  
 Wszyscy zostana zarazeni (porażka)  
 Wszyscy zostaną wyleczeni (wygrana)  
-Tempo szerzenia sie wirusa spadnie do zera(wygrana)  
+Tempo szerzenia sie wirusa spadnie do zera(wygrana)    
 Program w ramach studiow na PJATK wykonał: Olaf Ludwig s21265  
